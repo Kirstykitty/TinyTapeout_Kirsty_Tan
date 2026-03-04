@@ -8,10 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-Still working on it 
+serty
 
 ## How to test
-Still working on it 
+rsersrehs
 
 ## External hardware
-Will write when needed 
+resrsrees
