@@ -1,12 +1,12 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     0       # 457571274041781249
-  title:        ""      # Tiny Tapeout Workshop by Kirsty Tan   
-  author:       ""      # Kirsty Tan   
-  discord:      ""      # Anima
-  description:  ""      # Tiny Tapeout Chip (Used to convert your design into ASIC files required for manufacturing)
+  wokwi_id:     457571274041781249
+  title:        "Tiny Tapeout Workshop by Kirsty Tan"   
+  author:       "Kirsty Tan"
+  discord:      "Anima"
+  description:  "Tiny Tapeout Chip (Used to convert your design into ASIC files required for manufacturing)"
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # 10000
+  clock_hz:     10000
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
   tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
